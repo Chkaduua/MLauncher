@@ -1,0 +1,31 @@
+{
+  "minecraft": "1.20.1",
+  "forge": "47.4.0",
+  "cleanMods": true,
+  "mods": [
+    {
+      "name": "Immersive Vehicles-1.20.1-24.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/Immersive%20Vehicles-1.20.1-24.0.0.jar",
+      "sha1": "efe6962bf0304eb7ac234daa75551bf8e30ef3b7",
+      "size": 6254897
+    },
+    {
+      "name": "mcgamemode_cars-1 (1).jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/mcgamemode_cars-1%20%281%29.jar",
+      "sha1": "d0dd31920c81ca2d033990e5ac772728678a8218",
+      "size": 22231060
+    },
+    {
+      "name": "MGamemode-3.6.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/MGamemode-3.6.jar",
+      "sha1": "f3a469512bd207802abc960a5ed8b0116ad1e3ba",
+      "size": 12888311
+    },
+    {
+      "name": "tacz-1.20.1-1.1.8-hotfix2.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/tacz-1.20.1-1.1.8-hotfix2.jar",
+      "sha1": "5c2f72dfe8125ffa863e3b5feafa27d86d7e56ea",
+      "size": 57472579
+    }
+  ]
+}
