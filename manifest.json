@@ -27,5 +27,11 @@
       "sha1": "5c2f72dfe8125ffa863e3b5feafa27d86d7e56ea",
       "size": 57472579
     }
-  ]
+  ],
+  "launcher": {
+    "version": "1.2",
+    "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/launcher/MythosLauncher.jar",
+    "sha256": "04efe10ceb6001b6ab22a48d3edfe6941589daf4fa4e82ca75fcfea5e30edf65",
+    "size": 12088761
+  }
 }
