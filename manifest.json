@@ -29,9 +29,9 @@
     }
   ],
   "launcher": {
-    "version": "1.2",
+    "version": "1.3",
     "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/launcher/MythosLauncher.jar",
-    "sha256": "04efe10ceb6001b6ab22a48d3edfe6941589daf4fa4e82ca75fcfea5e30edf65",
-    "size": 12088761
+    "sha256": "e762e2bcf84face1301fd786fff301cbe9e5ad80ad6a421d208986fc7d4bb57c",
+    "size": 12089060
   }
 }
