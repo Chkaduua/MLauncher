@@ -54,88 +54,94 @@
   ],
   "files": [
     {
-      "path": "config/drippyloadingscreen/options.txt",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/drippyloadingscreen/options.txt",
-      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
-      "size": 2465
+      "path": "config/fancymenu/assets/mythos_bg.jpg",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_bg.jpg",
+      "sha1": "91b686ea5b4f720e95540e58a42574bad04c8337",
+      "size": 462290
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_access.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_access.png",
-      "sha1": "855382071cf6996651b74ccf4340aec4cbe8564b",
-      "size": 43173
+      "path": "config/fancymenu/assets/mythos_btn_join.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_btn_join.png",
+      "sha1": "719c99589b10b30a44903096a74505b8bce801cf",
+      "size": 37909
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_access_hover.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_access_hover.png",
-      "sha1": "8297d87340e7c1e458dbe4ef3cf69e4b02713f36",
-      "size": 43601
+      "path": "config/fancymenu/assets/mythos_btn_join_hover.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_btn_join_hover.png",
+      "sha1": "9d53607f14e2cb4eb7d7fe50cc2da51d31217180",
+      "size": 37694
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_controls.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_controls.png",
-      "sha1": "8989bdd6f3c28ef7e77ab544452a2e33f1ffd357",
-      "size": 23821
+      "path": "config/fancymenu/assets/mythos_btn_options.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_btn_options.png",
+      "sha1": "d31bc5eeff840156436a31a59e38d392c61111dd",
+      "size": 34356
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_controls_hover.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_controls_hover.png",
-      "sha1": "c8da79235c21bd34fb6c7aa8b4f2ff5f9a0be097",
-      "size": 24272
+      "path": "config/fancymenu/assets/mythos_btn_options_hover.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_btn_options_hover.png",
+      "sha1": "31b7e5e8beeeffff86e35789411a6a95aba2ad60",
+      "size": 34814
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_done.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_done.png",
-      "sha1": "b620066b299e93448fbbf00dc89070df347dc3e9",
-      "size": 21587
+      "path": "config/fancymenu/assets/mythos_btn_quit.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_btn_quit.png",
+      "sha1": "1696f658c6445d2c50dd26be3e39ad8a2f0d1d3d",
+      "size": 26269
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_done_hover.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_done_hover.png",
-      "sha1": "9f254010ce34d026b94db2fb85268674f08d34f6",
-      "size": 21821
+      "path": "config/fancymenu/assets/mythos_btn_quit_hover.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_btn_quit_hover.png",
+      "sha1": "f21c5688366fd208d7a441e361f8a2acb81bebdf",
+      "size": 26677
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_sound.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_sound.png",
-      "sha1": "2943ca359d431e6fc6e1ca5c9b88c1c93903991d",
-      "size": 35644
+      "path": "config/fancymenu/assets/mythos_loading_bar_fill.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_loading_bar_fill.png",
+      "sha1": "1d2d154245e25f53ffc01a8e7696733857b52b21",
+      "size": 3791
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_sound_hover.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_sound_hover.png",
-      "sha1": "812ff82d286d87c77c5eee3be84f2e0cb2d2eddf",
-      "size": 36334
+      "path": "config/fancymenu/assets/mythos_loading_bar_track.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_loading_bar_track.png",
+      "sha1": "c2ba513a2d33943cd260af43862605b64f80d305",
+      "size": 1819
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_video.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_video.png",
-      "sha1": "55a71e3111124d4d0a2022af15f2f17e40bb085d",
-      "size": 35660
+      "path": "config/fancymenu/assets/mythos_loading_bg.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_loading_bg.png",
+      "sha1": "fba4d5d51c9dae682f056f49fb12cee0edbd3da9",
+      "size": 1281131
     },
     {
-      "path": "config/fancymenu/assets/mythos_opt_video_hover.png",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_opt_video_hover.png",
-      "sha1": "e7e6ad2ef4a33cc111df9943cab82e2e5223d8f4",
-      "size": 36178
+      "path": "config/fancymenu/assets/mythos_logo.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_logo.png",
+      "sha1": "4d6d82dff9d78dee2a52077b0c2ff2040771e9b2",
+      "size": 142995
     },
     {
-      "path": "config/fancymenu/customizablemenus.txt",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/customizablemenus.txt",
-      "sha1": "972fc58306969e97826d7b71d2b0457ba58900c0",
-      "size": 201
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51
     },
     {
-      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "sha1": "1f90c1f3db4611d79b9bd3a7cfd616e490f37737",
-      "size": 20692
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "1381d463a19fc1c8ceefd0a8d000fb3d2b271e09",
+      "size": 55919
     },
     {
-      "path": "config/fancymenu/customization/options_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/customization/options_screen_layout.txt",
-      "sha1": "576fdc9a602785a090ca527ee33d127a5fff51a2",
-      "size": 51338
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/options.txt",
+      "sha1": "d54e458af5c1fbbc9e0c772675763d6b0e1b032c",
+      "size": 4573
     }
   ],
   "launcher": {
