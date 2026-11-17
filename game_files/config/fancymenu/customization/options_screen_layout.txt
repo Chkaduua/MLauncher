@@ -385,10 +385,13 @@ layout_action_executable_blocks {
 vanilla_button {
   button_element_executable_block_identifier = bc9ea8af-4f4a-4a1d-af93-188f5fe95e0d-1794865685937
   [executable_block:bc9ea8af-4f4a-4a1d-af93-188f5fe95e0d-1794865685937][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/mythos_opt_access.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/mythos_opt_access_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
+  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = e814f360-4995-495f-9da5-685e800ad8e4-1794865685937
   [loading_requirement_container_meta:e814f360-4995-495f-9da5-685e800ad8e4-1794865685937] = [groups:][instances:]
@@ -414,10 +417,10 @@ vanilla_button {
   auto_sizing_base_gui_scale = 2.0
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = 16
-  width = 200
-  height = 20
+  x = -80
+  y = 44
+  width = 160
+  height = 32
   stay_on_screen = true
   element_loading_requirement_container_identifier = 814ac342-6bd4-4ead-85a1-da719ba5ec19-1794865685937
   [loading_requirement_container_meta:814ac342-6bd4-4ead-85a1-da719ba5ec19-1794865685937] = [groups:][instances:]
@@ -669,9 +672,9 @@ vanilla_button {
   auto_sizing_base_gui_scale = 0.0
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = -80
-  width = 200
+  x = -80
+  y = -98
+  width = 160
   height = 20
   stay_on_screen = true
   element_loading_requirement_container_identifier = 65488a2c-6134-4b6d-8a09-2d973f679460-1794865685936
@@ -725,10 +728,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 01a9b89d-ee2d-4915-a07f-e53226787909-1794865685938
   [executable_block:01a9b89d-ee2d-4915-a07f-e53226787909-1794865685938][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/mythos_opt_done.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/mythos_opt_done_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
+  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 01ed4c71-8d93-4227-950b-31ee562b2dad-1794865685938
   [loading_requirement_container_meta:01ed4c71-8d93-4227-950b-31ee562b2dad-1794865685938] = [groups:][instances:]
@@ -754,10 +760,10 @@ vanilla_button {
   auto_sizing_base_gui_scale = 0.0
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = 60
-  width = 200
-  height = 20
+  x = -80
+  y = 92
+  width = 160
+  height = 32
   stay_on_screen = true
   element_loading_requirement_container_identifier = e23ebc78-59eb-496b-aa90-1035407a7390-1794865685938
   [loading_requirement_container_meta:e23ebc78-59eb-496b-aa90-1035407a7390-1794865685938] = [groups:][instances:]
@@ -1065,10 +1071,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 1a35cfc8-de39-4eac-a205-89bacef15ef4-1794865685937
   [executable_block:1a35cfc8-de39-4eac-a205-89bacef15ef4-1794865685937][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/mythos_opt_controls.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/mythos_opt_controls_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
+  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 8f9cca18-67f1-46df-a633-bfe7e9d5c258-1794865685937
   [loading_requirement_container_meta:8f9cca18-67f1-46df-a633-bfe7e9d5c258-1794865685937] = [groups:][instances:]
@@ -1094,10 +1103,10 @@ vanilla_button {
   auto_sizing_base_gui_scale = 0.0
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = -8
-  width = 200
-  height = 20
+  x = -80
+  y = 6
+  width = 160
+  height = 32
   stay_on_screen = true
   element_loading_requirement_container_identifier = 6a1d4493-d402-45bc-b59d-f3e72f1dd54b-1794865685937
   [loading_requirement_container_meta:6a1d4493-d402-45bc-b59d-f3e72f1dd54b-1794865685937] = [groups:][instances:]
@@ -1320,10 +1329,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 4f8e8487-809e-49fe-b22f-088ebe95ca8b-1794865685937
   [executable_block:4f8e8487-809e-49fe-b22f-088ebe95ca8b-1794865685937][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/mythos_opt_video.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/mythos_opt_video_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
+  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = c7a97930-d463-45cc-987f-de4c01ca1c28-1794865685937
   [loading_requirement_container_meta:c7a97930-d463-45cc-987f-de4c01ca1c28-1794865685937] = [groups:][instances:]
@@ -1349,10 +1361,10 @@ vanilla_button {
   auto_sizing_base_gui_scale = 0.0
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = -56
-  width = 200
-  height = 20
+  x = -80
+  y = -70
+  width = 160
+  height = 32
   stay_on_screen = true
   element_loading_requirement_container_identifier = 1d022388-2771-488f-b393-1bfd9825f09a-1794865685937
   [loading_requirement_container_meta:1d022388-2771-488f-b393-1bfd9825f09a-1794865685937] = [groups:][instances:]
@@ -1405,10 +1417,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 2c7869c4-f2f7-4f0a-8b45-cf45012d6cbb-1794865685937
   [executable_block:2c7869c4-f2f7-4f0a-8b45-cf45012d6cbb-1794865685937][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/mythos_opt_sound.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/mythos_opt_sound_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
+  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = a6569e6a-6453-496d-8e0d-3e9eb2ee20e8-1794865685937
   [loading_requirement_container_meta:a6569e6a-6453-496d-8e0d-3e9eb2ee20e8-1794865685937] = [groups:][instances:]
@@ -1434,10 +1449,10 @@ vanilla_button {
   auto_sizing_base_gui_scale = 0.0
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
+  x = -80
   y = -32
-  width = 200
-  height = 20
+  width = 160
+  height = 32
   stay_on_screen = true
   element_loading_requirement_container_identifier = a0ec1896-a66b-44d3-ba1f-4c15f6df379f-1794865685937
   [loading_requirement_container_meta:a0ec1896-a66b-44d3-ba1f-4c15f6df379f-1794865685937] = [groups:][instances:]
