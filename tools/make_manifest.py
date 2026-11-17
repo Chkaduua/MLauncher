@@ -5,6 +5,8 @@
 Берёт:
   * tools/config.json          — версия Minecraft и Forge
   * mods/*.jar                 — список модов (sha1 + размер)
+  * game_files/**              — любые файлы, которые копируются в папку игры у игрока
+                                 (например game_files/config/fancymenu/... -> game/config/fancymenu/...)
   * launcher/MythosLauncher.jar — версия лаунчера (из META-INF/MANIFEST.MF) + sha256
 Репозиторий и ветка определяются из GITHUB_REPOSITORY / GITHUB_REF_NAME (в GitHub Actions)
 или из git remote (локально).
@@ -64,6 +66,24 @@ def main():
                 })
     manifest["mods"] = mods
 
+    files = []
+    files_dir = os.path.join(ROOT, "game_files")
+    if os.path.isdir(files_dir):
+        for dirpath, _dirs, names in os.walk(files_dir):
+            for name in sorted(names):
+                if name == ".gitkeep":
+                    continue
+                p = os.path.join(dirpath, name)
+                rel = os.path.relpath(p, files_dir).replace(os.sep, "/")
+                files.append({
+                    "path": rel,
+                    "url": base + "game_files/" + quote(rel),
+                    "sha1": file_hash(p, "sha1"),
+                    "size": os.path.getsize(p),
+                })
+    files.sort(key=lambda f: f["path"].lower())
+    manifest["files"] = files
+
     jar = os.path.join(ROOT, "launcher", "MythosLauncher.jar")
     if os.path.isfile(jar):
         version = jar_version(jar)
@@ -81,7 +101,7 @@ def main():
     with open(out, "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
         f.write("\n")
-    print(f"manifest.json: модов {len(mods)}, лаунчер {manifest.get('launcher', {}).get('version', '—')}")
+    print(f"manifest.json: модов {len(mods)}, файлов {len(files)}, лаунчер {manifest.get('launcher', {}).get('version', '—')}")
 
 
 if __name__ == "__main__":

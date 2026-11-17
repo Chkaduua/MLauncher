@@ -24,3 +24,8 @@
 
 ## Ограничения GitHub
 Файл не больше 100 МБ (лучше до 50 МБ). Git LFS не подходит — лаунчер качает файлы напрямую.
+
+## Файлы игры (config, картинки FancyMenu, ресурспаки)
+Всё, что лежит в папке `game_files/`, лаунчер копирует в папку игры с тем же путём:
+`game_files/config/fancymenu/assets/x.png` → `~/.mythos-launcher/game/config/fancymenu/assets/x.png`.
+Файл удалили из `game_files/` — лаунчер удалит его и у игроков. Так же работает с `config/`, `resourcepacks/` и т. д.

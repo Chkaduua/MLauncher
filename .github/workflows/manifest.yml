@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "mods/**"
+      - "game_files/**"
       - "launcher/**"
       - "tools/config.json"
       - "tools/make_manifest.py"
