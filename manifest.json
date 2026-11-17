@@ -28,6 +28,26 @@
       "size": 57472579
     }
   ],
+  "files": [
+    {
+      "path": "config/fancymenu/assets/mythos_loading_bar_fill.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_loading_bar_fill.png",
+      "sha1": "1d2d154245e25f53ffc01a8e7696733857b52b21",
+      "size": 3791
+    },
+    {
+      "path": "config/fancymenu/assets/mythos_loading_bar_track.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_loading_bar_track.png",
+      "sha1": "c2ba513a2d33943cd260af43862605b64f80d305",
+      "size": 1819
+    },
+    {
+      "path": "config/fancymenu/assets/mythos_loading_bg.png",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/assets/mythos_loading_bg.png",
+      "sha1": "fba4d5d51c9dae682f056f49fb12cee0edbd3da9",
+      "size": 1281131
+    }
+  ],
   "launcher": {
     "version": "1.3",
     "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/launcher/MythosLauncher.jar",
