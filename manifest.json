@@ -42,8 +42,8 @@
     {
       "name": "MGamemode-3.7.jar",
       "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/MGamemode-3.7.jar",
-      "sha1": "3193dd4f99e2aa1a01e4ae97c3f62971ca45746f",
-      "size": 12885816
+      "sha1": "28d01d98dad334d94481c8cc860d69252f0ec648",
+      "size": 12910563
     },
     {
       "name": "tacz-1.20.1-1.1.8-hotfix2.jar",
@@ -226,6 +226,12 @@
       "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/config/fancymenu/options.txt",
       "sha1": "f71a2d92842cb80ccbb61fb2d4300a24b33ec02a",
       "size": 4574
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/game_files/options.txt",
+      "sha1": "05fd15002d1aa258db734befb4fdb3d90d9fd6ad",
+      "size": 4770
     }
   ],
   "launcher": {
