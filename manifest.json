@@ -4,16 +4,40 @@
   "cleanMods": true,
   "mods": [
     {
+      "name": "drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
+      "sha1": "a33d48809db8a2f1eb3667fe140d7a4104d80dca",
+      "size": 281881
+    },
+    {
+      "name": "fancymenu_forge_3.10.0_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/fancymenu_forge_3.10.0_MC_1.20.1.jar",
+      "sha1": "ae0aa93eff694d3baacbdd4e526a9fc1fc4690fa",
+      "size": 36620045
+    },
+    {
       "name": "Immersive Vehicles-1.20.1-24.0.0.jar",
       "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/Immersive%20Vehicles-1.20.1-24.0.0.jar",
       "sha1": "efe6962bf0304eb7ac234daa75551bf8e30ef3b7",
       "size": 6254897
     },
     {
+      "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185
+    },
+    {
       "name": "mcgamemode_cars-1 (1).jar",
       "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/mcgamemode_cars-1%20%281%29.jar",
       "sha1": "d0dd31920c81ca2d033990e5ac772728678a8218",
       "size": 22231060
+    },
+    {
+      "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+      "size": 37178
     },
     {
       "name": "MGamemode-3.6.jar",
