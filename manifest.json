@@ -28,10 +28,10 @@
       "size": 625185
     },
     {
-      "name": "mcgamemode_cars-1 (1).jar",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/mcgamemode_cars-1%20%281%29.jar",
-      "sha1": "d0dd31920c81ca2d033990e5ac772728678a8218",
-      "size": 22231060
+      "name": "mcgamemode_cars-1.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/mcgamemode_cars-1.jar",
+      "sha1": "11e8c1de7b05b8ba8260a790b3c83a34c284cd7a",
+      "size": 22183120
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
@@ -40,10 +40,10 @@
       "size": 37178
     },
     {
-      "name": "MGamemode-3.7.jar",
-      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/MGamemode-3.7.jar",
-      "sha1": "28d01d98dad334d94481c8cc860d69252f0ec648",
-      "size": 12910563
+      "name": "MGamemode-3.9.jar",
+      "url": "https://raw.githubusercontent.com/Chkaduua/MLauncher/main/mods/MGamemode-3.9.jar",
+      "sha1": "dfb857e59c0dc94c96e6a0adfc11540d0f2c7db7",
+      "size": 13022218
     },
     {
       "name": "tacz-1.20.1-1.1.8-hotfix2.jar",
